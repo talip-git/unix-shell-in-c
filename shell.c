@@ -1,7 +1,5 @@
 /*
- * CMPE 382 Homework 1 Unix Shell Implementation
- * Ahmet Cemal Sert ID:43999263780
- * Talip Sina Postacı ID:19390083036
+ * Unix Shell Implementation
  * */
 
 #include<stdio.h>
